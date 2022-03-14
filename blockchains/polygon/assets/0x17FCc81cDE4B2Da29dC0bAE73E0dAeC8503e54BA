@@ -1,0 +1,25 @@
+{
+    "name": "Zippin",
+    "type": "POLYGON",
+    "symbol": "ZPN",
+    "decimals": 18,
+    "website": "https://polygon.technology",
+    "description": "Wrapped MATIC",
+    "explorer": "https://polygonscan.com/token/0x17FCc81cDE4B2Da29dC0bAE73E0dAeC8503e54BA",
+    "status": "active",
+    "id": "0x17FCc81cDE4B2Da29dC0bAE73E0dAeC8503e54BA",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ZippinToken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ZippinToken"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/maticnetwork/"
+        }
+    ]
+}
